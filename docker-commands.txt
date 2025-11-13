@@ -2,3 +2,5 @@ docker run hello-world
 docker ps 
 docker images 
 docker run -d --name my-nginx nginx 
+docker run -d -p 8080:80 --name my-website nginx 
+docker logs my-website 

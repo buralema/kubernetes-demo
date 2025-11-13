@@ -7,3 +7,7 @@ Added proper deployment and service YAML files
  
 ## Docker Learning 
 Added Docker basics and container management 
+ 
+## Latest Progress 
+- Successfully deployed nginx web server using Docker 
+- Learned port mapping and container management 
