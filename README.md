@@ -15,3 +15,7 @@ Added Docker basics and container management
 ## Dockerfile Learning 
 - Created custom Dockerfile and built image 
 - Deployed custom web application 
+ 
+## Docker Compose Learning 
+- Multi-service applications with Docker Compose 
+- Web server + Redis database setup 

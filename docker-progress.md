@@ -12,3 +12,6 @@
 8. Created custom Dockerfile 
 9. Built custom Docker image 
 10. Learned Dockerfile syntax 
+11. Learned Docker Compose 
+12. Multi-container applications 
+13. Web server + Redis database 

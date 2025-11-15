@@ -8,3 +8,7 @@ echo <h1>Hello from Docker!</h1> > index.html
 echo FROM nginx:alpine > Dockerfile 
 docker build -t my-custom-app . 
 docker run -d -p 8081:80 --name my-app my-custom-app 
+docker-compose up -d 
+docker-compose ps 
+docker-compose logs 
+docker-compose down 
