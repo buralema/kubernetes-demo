@@ -4,3 +4,7 @@ docker images
 docker run -d --name my-nginx nginx 
 docker run -d -p 8080:80 --name my-website nginx 
 docker logs my-website 
+echo <h1>Hello from Docker!</h1> > index.html 
+echo FROM nginx:alpine > Dockerfile 
+docker build -t my-custom-app . 
+docker run -d -p 8081:80 --name my-app my-custom-app 

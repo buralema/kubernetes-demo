@@ -9,3 +9,6 @@
 5. Successfully ran nginx container with port mapping 
 6. Accessed web server at localhost:8080 
 7. Learned container lifecycle management 
+8. Created custom Dockerfile 
+9. Built custom Docker image 
+10. Learned Dockerfile syntax 

@@ -11,3 +11,7 @@ Added Docker basics and container management
 ## Latest Progress 
 - Successfully deployed nginx web server using Docker 
 - Learned port mapping and container management 
+ 
+## Dockerfile Learning 
+- Created custom Dockerfile and built image 
+- Deployed custom web application 
